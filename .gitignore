@@ -2,4 +2,21 @@ venv
 app_decompiled
 app_source_for_review.zip
 app_source_for_review
-bad_frames
+
+# Raw packet capture of the app's live traffic -- not needed in the public repo
+drone_2.pcap
+*.pcap
+
+# Python environment / caches
+__pycache__/
+*.pyc
+
+# OS / IDE junk
+.DS_Store
+.idea/
+
+# Diagnostic output, not source
+bad_frames/
+*.log
+telemetry_log_*.txt
+drone_2.pcap
