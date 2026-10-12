@@ -2,9 +2,7 @@
 
 Running log of progress, findings, bugs, and approach changes. Newest entries
 first. This is the working log for the code in this folder; see the
-"Drone Project + Geometry-Aware RL Research — Status" doc in the
-"Korede's Life" claude.ai project for the fuller narrative/context version.
-
+"Drone Project + Geometry-Aware RL Research — Status"
 ---
 
 ## 2026-10-11 — Video corruption root-caused and fixed; camera switch found; CV direction set
